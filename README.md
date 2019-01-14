@@ -11,7 +11,7 @@
    - #### <a>stream</a> > 文件流
    - #### <a>cheerio</a> > jQuery
    - #### <a>request</a> > 发请求
-   - #### <a>token</a> > 令牌（加解密）
+   - #### <a href="doc/token.md">token</a> > 令牌（加解密）
    - #### <a>anyproxy</a>
 + ### 第三方模块
    - #### <a>express</a> > 搭建静态服务器+路由
