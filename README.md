@@ -25,4 +25,3 @@
    - #### <a>WebSocket</a> > 直播 聊天
    - #### <a>forever</a> > 部署方案 守护进程
    - #### <a>pm2</a> > 部署方案 守护进程
-   - #### <a href="https://github.com/Wscats/vue-tutorial/issues/16">axios</a> > Vue发起ajax请求
