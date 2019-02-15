@@ -1,11 +1,12 @@
 # nodeJS
-[老姚的笔记](https://github.com/Wscats/node-tutorial)
-[基础](./doc/Nodejs.html)
-[第三方模块](./doc/第三方模块.html)
-[数据库操作（mongo&mysql）](./doc/Database.html)
-+ ### 配置
+### 基础
+- [老姚的笔记](https://github.com/Wscats/node-tutorial)
+- [基础](https://fangira.github.io/nodeJS/doc/Nodejs.html)
+- [第三方模块]https://fangira.github.io/nodeJS/doc/第三方模块.html)
+- [数据库操作（mongo&mysql）](https://fangira.github.io/nodeJS/doc/Database.html)
+### 配置
    - #### 安装nodeJS环境
-+ ### 内置模块
+### 内置模块
    - #### <a>http</a> > 搭建静态服务器
    - #### <a>url</a> > 处理 协议、主机名、端口、路径、参数、锚点等
    - #### <a>querystring</a> > 处理url
@@ -16,7 +17,7 @@
    - #### <a>request</a> > 发请求
    - #### <a href="doc/token.md">token</a> > 令牌（加解密）
    - #### <a>anyproxy</a>
-+ ### 第三方模块
+### 第三方模块
    - #### <a>express</a> > 搭建静态服务器+路由
    - #### <a>express-generator@4</a> > 脚手架
    - #### [egg.js 类似express](https://eggjs.org/zh-cn/)
