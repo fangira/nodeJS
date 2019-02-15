@@ -1,5 +1,8 @@
 # nodeJS
 [老姚的笔记](https://github.com/Wscats/node-tutorial)
+[基础](./doc/Nodejs.html)
+[第三方模块](./doc/第三方模块.html)
+[数据库操作（mongo&mysql）](./doc/Database.html)
 + ### 配置
    - #### 安装nodeJS环境
 + ### 内置模块
