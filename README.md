@@ -39,5 +39,5 @@
    - [配置](./md/koa.md)
    - [脚手架](https://www.jianshu.com/p/4a458e14cb73)
 - ##### egg
-   - [配置]()
+   - [配置](./md/egg.md)
    - [API](https://blog.csdn.net/baidu_33438652/article/details/81736832)
