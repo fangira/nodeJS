@@ -40,6 +40,7 @@ static 插件默认映射`/public/* -> app/public/*`目录
 此处，我们把静态资源都放到`app/public`目录即可
 
 ## 跨域
+安装egg-cors插件
 在`config/config.default.js`添加以下代码
 
 ```js
