@@ -26,8 +26,7 @@
    - #### <a>babel</a> > 让ES6向下兼容
    - #### <a>supervisor</a> > 自动检测你的文件变化->自动重启
    - #### [multer](https://github.com/wscats/node-tutorial/tree/master/tutorial/express/multer) > 文件上传
-   - #### <a>mongodb</a> > 数据库
-   - #### <a>mysql</a> > 数据库
+   - #### [mongodb/mysql](https://fangira.github.io/nodeJS/doc/Database.html) > 数据库
    - #### <a>WebSocket</a> > 直播 聊天
    - #### <a>forever</a> > 部署方案 守护进程
    - #### <a>pm2</a> > 部署方案 守护进程
