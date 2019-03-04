@@ -23,9 +23,9 @@ const path = require('path')
 const fs = require('fs')
 const https = require('https')
 
-//私钥
+//私钥 需要更改路径
 const privateKey = fs.readFileSync(path.join(__dirname, '../certificate/3_www.qoob.xyz.key'), 'utf8')
-//证书
+//证书 需要更改路径
 const certificate = fs.readFileSync(path.join(__dirname, '../certificate/2_www.qoob.xyz.crt'), 'utf8')
 const credentials = {
   key: privateKey,
@@ -59,31 +59,6 @@ function normalizePort(val) {
 
   return false;
 }
-
-function onError(error) {
-  if (error.syscall !== 'listen') {
-    throw error;
-  }
-
-  var bind = typeof port === 'string'
-    ? 'Pipe ' + port
-    : 'Port ' + port;
-
-  // handle specific listen errors with friendly messages
-  switch (error.code) {
-    case 'EACCES':
-      console.error(bind + ' requires elevated privileges');
-      process.exit(1);
-      break;
-    case 'EADDRINUSE':
-      console.error(bind + ' is already in use');
-      process.exit(1);
-      break;
-    default:
-      throw error;
-  }
-}
-
 
 ```
 
