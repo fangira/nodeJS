@@ -6,30 +6,30 @@
 ### 配置
    - #### 安装nodeJS环境
 ### 内置模块
-   - #### <a>http</a> > 搭建静态服务器
-   - #### <a>url</a> > 处理 协议、主机名、端口、路径、参数、锚点等
-   - #### <a>querystring</a> > 处理url
-   - #### <a>events</a> > 设置触发器
-   - #### <a>fs</a> > 文件读写
-   - #### <a>stream</a> > 文件流
-   - #### <a>cheerio</a> > jQuery
-   - #### <a>request</a> > 发请求
-   - #### <a href="doc/token.md">token</a> > 令牌（加解密）
-   - #### <a>anyproxy</a>
+   - #### http > 搭建静态服务器
+   - #### url > 处理 协议、主机名、端口、路径、参数、锚点等
+   - #### querystring > 处理url
+   - #### events > 设置触发器
+   - #### fs > 文件读写
+   - #### stream > 文件流
+   - #### cheerio > jQuery
+   - #### request > 发请求
+   - #### [token](./doc/token.md) > 令牌（加解密）
+   - #### anyproxy
    - #### [https](./md/https.md) > 用express搭建一个https协议的服务器!!!!端口号设置为443
 ### 第三方模块
-   - #### <a>express</a> > 搭建静态服务器+路由
-   - #### <a>express-generator@4</a> > 脚手架
-   - #### [egg.js 类似express](https://eggjs.org/zh-cn/)
-   - #### [koa 类似express](https://koa.bootcss.com/)
-   - #### <a href="doc/http-proxy.md">http-proxy-middleware</a> > 服务器代理
-   - #### <a>babel</a> > 让ES6向下兼容
-   - #### <a>supervisor</a> > 自动检测你的文件变化->自动重启
+   - #### express > 搭建静态服务器+路由
+   - #### express-generator@4 > 脚手架
+   - #### [egg](https://eggjs.org/zh-cn/) > 基于koa
+   - #### [koa](https://koa.bootcss.com/) > 基于express
+   - #### [http-proxy-middleware](./doc/http-proxy.md) > 服务器代理
+   - #### babel > 让ES6向下兼容、.jsx->react.create
+   - #### supervisor > 自动检测你的文件变化->自动重启
    - #### [multer](https://github.com/wscats/node-tutorial/tree/master/tutorial/express/multer) > 文件上传
    - #### [mongodb/mysql](https://fangira.github.io/nodeJS/doc/Database.html) > 数据库
    - #### [WebSocket](https://github.com/wscats/node-tutorial/tree/master/tutorial/websocket) > 直播 聊天
-   - #### <a>forever</a> > 部署方案 守护进程
-   - #### <a>pm2</a> > 部署方案 守护进程
+   - #### forever > 部署方案 守护进程
+   - #### pm2 > 部署方案 守护进程
    
 ### 脚手架
 - ##### express
