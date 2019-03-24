@@ -3,6 +3,7 @@
 - [老姚的笔记](https://github.com/Wscats/node-tutorial)
 - [基础](https://fangira.github.io/nodeJS/doc/Nodejs.html)
 - [第三方模块](https://fangira.github.io/nodeJS/doc/第三方模块.html)
+- [NODE_ENV](https://www.jianshu.com/p/9c29eb09ef1f)
 ### 配置
    - #### 安装nodeJS环境
 ### 内置模块
